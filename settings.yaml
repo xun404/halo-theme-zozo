@@ -6,11 +6,6 @@ general:
       label: 二级标题
       type: text
       default: 'the site subtitle'
-    footer_slogan:
-      name: footer_slogan
-      label: 页脚标语
-      type: text
-      default: '我的精神家园'
     enable_mathJax:
       name: enable_mathJax
       label: 是否使用 MathJax
